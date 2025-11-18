@@ -59,9 +59,9 @@ TrainUp/
 └── requirements.txt
 ```
 ## Python Version
-
+```
 Python Version: Python 3.11.7
-
+```
 ## Installation
 
 Clone the repository:
